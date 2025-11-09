@@ -17,11 +17,23 @@
 
 #### <ins>Purpose</ins>: 
 
-#### This segment establishes how the AI Test Controller identifies, categorizes, and prioritizes potential automotive customers based on data-driven attributes such as production scale, test complexity, and AI readiness.
+- This segment establishes how the AI Test Controller identifies, categorizes, and prioritizes potential automotive customers based on data-driven attributes such as production scale, test complexity, and AI readiness.
 
-#### In the code context: algorithms cluster customers (OEMs, Tier-1 suppliers, EV startups, etc.) into tiers using machine learning classification (e.g., K-Means, Random Forests).
+- In the code context: algorithms cluster customers (OEMs, Tier-1 suppliers, EV startups, etc.) into tiers using machine learning classification (e.g., K-Means, Random Forests).
 
-#### <ins>Goal</ins>: : Tailor engagement and solution offerings (HSSub™, PXIe test modules, digital controllers) to each tier’s technical maturity and pain points, maximizing market fit and ROI.
+#### <ins>Goal</ins>:  Tailor engagement and solution offerings (HSSub™, PXIe test modules, digital controllers) to each tier’s technical maturity and pain points, maximizing market fit and ROI.
+
+---
+
+## 2. Tiered Approach to Automotive Market
+
+#### <ins>Purpose</ins>: 
+
+- Implements logic for a multi-level engagement model—for example, Tier 1 (OEM innovators), Tier 2 (high-growth EV suppliers), Tier 3 (volume manufacturers).
+
+- In the code: prioritization functions allocate resources and AI model customization based on potential revenue impact and partnership value.
+
+#### <ins>Goal</ins>: Optimize Teradyne’s AI controller deployments for maximum early impact and scalability.
 
 
 
