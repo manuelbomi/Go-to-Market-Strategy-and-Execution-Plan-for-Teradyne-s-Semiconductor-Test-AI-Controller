@@ -15,6 +15,14 @@
 
 ### Tiered Approach to Automotive Market
 
+### <ins>Purpose</ins>: 
+
+### This segment establishes how the AI Test Controller identifies, categorizes, and prioritizes potential automotive customers based on data-driven attributes such as production scale, test complexity, and AI readiness.
+
+### In the code context: algorithms cluster customers (OEMs, Tier-1 suppliers, EV startups, etc.) into tiers using machine learning classification (e.g., K-Means, Random Forests).
+
+### <ins>Goal</ins>: : Tailor engagement and solution offerings (HSSub™, PXIe test modules, digital controllers) to each tier’s technical maturity and pain points, maximizing market fit and ROI.
+
 
 
 ```python
