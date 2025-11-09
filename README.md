@@ -284,6 +284,14 @@ plt.show()
 
 ### Objective: Create industry-specific solutions and scale to 20+ customers
 
+#### <ins>Purpose</ins>: 
+
+- Develop specialized AI test configurations for target automotive subdomains—such as ECU, battery management, ADAS sensors, and infotainment.
+
+- In the code: framework expands to support vertical templates (modular test scripts, adaptive ML models, predictive maintenance analytics).
+
+#### <ins>Goal</ins>: : Scale from 3–5 pilots to 20+ production customers with verticalized solutions.
+
 ```python
 # ---------------------------
 # Section 3: Vertical Solutions & Ecosystem Forecast
