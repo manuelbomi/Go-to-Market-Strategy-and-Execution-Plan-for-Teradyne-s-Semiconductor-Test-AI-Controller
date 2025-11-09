@@ -154,7 +154,7 @@ plt.show()
 
 - Prototype AI-powered testing with select “lighthouse” customers to demonstrate measurable improvements (e.g., test time reduction, predictive yield analysis).
 
-- In the code: these modules track pilot performance, visualize early KPIs (test throughput, false fail rates), and feed data into dashboards.
+- In the code: these modules track pilot performance, visualize early KPIs (test throughput, false fail rates), and feed data into dashbaords.
 
 #### <ins>Goal</ins>: Validate and refine AI models in real-world test cells.
 
