@@ -5,9 +5,9 @@
 
 ## Executive Summary: The Automotive Quality Revolution
 
-#### The automotive semiconductor market faces an impossible challenge: achieve Zero DPPM quality while managing exploding test costs and complexity. 
+### The automotive semiconductor market faces an impossible challenge: achieve Zero DPPM quality while managing exploding test costs and complexity. 
 
-#### Teradyne's AI Controller transforms this paradigm through intelligent, adaptive testing. This go-to-market plan outlines how we will capture the $1.2B automotive test market by delivering 30-50% test time reduction while enabling 5-10x quality improvement.
+### Teradyne's AI Controller transforms this paradigm through intelligent, adaptive testing. This go-to-market plan outlines how we will capture the $1.2B automotive test market by delivering 30-50% test time reduction while enabling 5-10x quality improvement.
 
 ---
 
@@ -15,13 +15,13 @@
 
 ### Tiered Approach to Automotive Market
 
-### <ins>Purpose</ins>: 
+#### <ins>Purpose</ins>: 
 
-### This segment establishes how the AI Test Controller identifies, categorizes, and prioritizes potential automotive customers based on data-driven attributes such as production scale, test complexity, and AI readiness.
+#### This segment establishes how the AI Test Controller identifies, categorizes, and prioritizes potential automotive customers based on data-driven attributes such as production scale, test complexity, and AI readiness.
 
-### In the code context: algorithms cluster customers (OEMs, Tier-1 suppliers, EV startups, etc.) into tiers using machine learning classification (e.g., K-Means, Random Forests).
+#### In the code context: algorithms cluster customers (OEMs, Tier-1 suppliers, EV startups, etc.) into tiers using machine learning classification (e.g., K-Means, Random Forests).
 
-### <ins>Goal</ins>: : Tailor engagement and solution offerings (HSSub™, PXIe test modules, digital controllers) to each tier’s technical maturity and pain points, maximizing market fit and ROI.
+#### <ins>Goal</ins>: : Tailor engagement and solution offerings (HSSub™, PXIe test modules, digital controllers) to each tier’s technical maturity and pain points, maximizing market fit and ROI.
 
 
 
