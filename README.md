@@ -404,7 +404,7 @@ plt.show()
 
 ## Phase 3: Ecosystem Dominance (Months 19-36)
 
-### Objective: Establish Teradyne as the automotive test standard
+### Objective: Establish Teradyne AI Controller as the automotive semiconductor test standard
 
 #### <ins>Purpose</ins>:
 
