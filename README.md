@@ -503,7 +503,7 @@ for year, rev in zip(years, revenue):
 
 - In the code: real-time dashboards display KPIs such as test yield, downtime reduction, and model accuracy.
 
-#### <ins>Goal/ins>:: Quantify customer value and guide iterative improvement.
+#### <ins>Goal</ins>: Quantify customer value and guide iterative improvement.
 
 ```python
 # ---------------------------
