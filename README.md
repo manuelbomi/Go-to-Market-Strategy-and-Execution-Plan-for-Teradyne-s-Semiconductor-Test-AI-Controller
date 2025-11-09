@@ -497,6 +497,14 @@ for year, rev in zip(years, revenue):
 
 ### Comprehensive KPI Dashboard
 
+#### <ins>Purpose</ins>:
+
+- Implements analytics to measure AI Test Controller impact across customer accounts.
+
+- In the code: real-time dashboards display KPIs such as test yield, downtime reduction, and model accuracy.
+
+#### <ins>Goal/ins>:: Quantify customer value and guide iterative improvement.
+
 ```python
 # ---------------------------
 # Section 4: KPI Dashboard & Customer Success Visualization
