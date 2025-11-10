@@ -142,6 +142,9 @@ plt.tight_layout()
 plt.show()
 
 ```
+<img width="720" height="360" alt="Image" src="https://github.com/user-attachments/assets/064c19d7-3b6c-4a99-aad8-a7214e0017aa" />
+
+<img width="1706" height="852" alt="Image" src="https://github.com/user-attachments/assets/b0bd9d11-f924-4264-b86b-5deda9e7c116" />
 
 ---
 ---
