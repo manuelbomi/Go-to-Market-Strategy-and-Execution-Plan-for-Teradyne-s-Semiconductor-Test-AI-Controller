@@ -589,6 +589,14 @@ ecosystem.plot_market_forecast(years, penetration, revenue)
 
 ```
 
+| Chart | What It Shows | Strategic Relevance |
+|-------|---------------|---------------------|
+| **Ecosystem Partnerships (Bar Chart)** | Number of partners per strategic category (Tier 1s, Semiconductor, Software, Standards) | Highlights ecosystem breadth and integration potential |
+| **Certification Structure (Grouped Bar Chart)** | Comparison of requirements and benefits across Bronze, Silver, and Gold levels | Clarifies partner progression and incentive differentiation |
+| **Market Forecast (Dual Subplot)** | 3-year growth in penetration and corresponding revenue | Projects impact of ecosystem expansion and certification adoption |
+
+
+
 <img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/dd573f79-5857-4e9c-9b36-08bb4a445569" />
 
 <img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/ddab0ab5-03db-4549-a60b-c82d87f426fd" />
