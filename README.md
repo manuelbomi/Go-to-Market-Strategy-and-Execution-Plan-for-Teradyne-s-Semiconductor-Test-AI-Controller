@@ -406,6 +406,12 @@ plt.tight_layout()
 plt.show()
 
 ```
+<img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/4337345f-3fc7-4855-aea4-c22a48fb661a" />
+
+<img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/f9054087-2b55-4216-b6fe-ce41688fe2fb" />
+
+<img width="1000" height="400" alt="Image" src="https://github.com/user-attachments/assets/1dea7cd3-fda7-4f6f-b39d-13bdbe4ff81d" />
+
 ---
 ---
 
