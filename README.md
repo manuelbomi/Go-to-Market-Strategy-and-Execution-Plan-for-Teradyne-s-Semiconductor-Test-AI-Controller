@@ -281,6 +281,10 @@ plt.show()
 
 ```
 
+<img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/fae4e9e4-1a6f-4eca-87bb-224eba0c1552" />
+
+<img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/81e5647c-b825-48d6-a154-0220b8c3376d" />
+
 ---
 ---
 
