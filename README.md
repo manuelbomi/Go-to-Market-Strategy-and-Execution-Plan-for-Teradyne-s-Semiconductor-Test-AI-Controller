@@ -747,6 +747,11 @@ plt.show()
 
 ```
 
+<img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/83918e0b-b9ab-43ae-9786-3df8affc5c2c" />
+
+
+<img width="600" height="500" alt="Image" src="https://github.com/user-attachments/assets/8fd025c5-ce47-433f-82ee-fa6fd31c5a47" />
+
 ---
 ---
 
