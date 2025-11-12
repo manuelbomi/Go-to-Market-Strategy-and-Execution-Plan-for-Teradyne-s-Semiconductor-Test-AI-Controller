@@ -8,6 +8,8 @@
 
 #### The automotive semiconductor market faces an impossible challenge: achieve Zero DPPM quality while managing exploding test costs and complexity. 
 
+#### The go-to-market strategy that we shall fully discuss in this repository is part of the AI Controller vision. Overview of the AI Controller vision is available here: https://github.com/manuelbomi/AI-Controller-Strategic-Vision-Roadmap
+
 #### Teradyne's AI Controller transforms this paradigm through intelligent, adaptive testing. This go-to-market plan outlines how we will capture the $1.2B automotive test market by delivering 30-50% test time reduction while enabling 5-10x quality improvement.
 
 ---
