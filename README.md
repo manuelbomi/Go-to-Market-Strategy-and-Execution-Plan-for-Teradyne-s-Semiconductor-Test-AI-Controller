@@ -369,7 +369,7 @@ class EcosystemExpansion:
     def __init__(self):
         pass
     def forecast_market_penetration(self):
-        years = [2026, 2027, 2029]
+        years = [2026, 2027, 2028]
         penetration = {
             'tier_1_safety': [0.05, 0.25, 0.60],
             'tier_2_ev': [0.08, 0.35, 0.70],
